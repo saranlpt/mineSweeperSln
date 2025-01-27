@@ -1,0 +1,7 @@
+.vs/MiniMineSweeper/DesignTimeBuild/.dtbcache.v2
+.vs/MiniMineSweeper/FileContentIndex/3c56868d-1602-442c-8185-52df6a8e91fc.vsidx
+/.vs
+*.sln
+/MiniMineSweeper/obj
+/UnitTest.Tests/obj
+UnitTest.Tests/UnitTest.Tests.csproj
